@@ -25,6 +25,3 @@ These themes are built using the color palettes from:
 ## 📄 License
 
 This project is released under the **MIT License**, following the Kanagawa.nvim license.
-
-
----
