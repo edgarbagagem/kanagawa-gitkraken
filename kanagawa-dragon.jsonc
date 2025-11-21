@@ -11,7 +11,7 @@
 
       // Core colors
       "white":"#c5c9c5",
-      "black":"#0d0c0c",
+      "black":"#12120f",
       "red": "#c4746e",
       "orange": "#b6927b",
       "yellow": "#c4b28a",
@@ -22,7 +22,7 @@
       "purple": "#8992a7",
 
       // Background and panels
-      "app__bg0": "#16161D",
+      "app__bg0": "#0d0c0c",
       "toolbar__bg0": "lighten(saturate(@app__bg0, 3%), 6%)",
       "toolbar__bg1": "lighten(@toolbar__bg0, 4%)",
       "toolbar__bg2": "lighten(@toolbar__bg1, 6%)",
@@ -41,16 +41,16 @@
       "modal-overlay-color": "rgba(0,0,0,.5)",
 
       // Graph colors
-      "graph-color-0": "#FF5D62",
-      "graph-color-1": "#FFA066",
-      "graph-color-2": "#7E9CD8",
-      "graph-color-3": "#957FB8",
-      "graph-color-4": "#98BB6C",
-      "graph-color-5": "#E6C384",
-      "graph-color-6": "#D27E99",
-      "graph-color-7": "#A3D4D5",
-      "graph-color-8": "#C8C093",
-      "graph-color-9": "#717C7C",
+      "graph-color-0": "#87a987",
+      "graph-color-1": "#a292a3",
+      "graph-color-2": "#b6927b",
+      "graph-color-3": "#737c73",
+      "graph-color-4": "#8ba4b0",
+      "graph-color-5": "#8992a7",
+      "graph-color-6": "#c4746e",
+      "graph-color-7": "#8ea4a2",
+      "graph-color-8": "#949fb5",
+      "graph-color-9": "#c4b28a",
       "stats-added-color": "#8a9a7b",
       "stats-deleted-color": "#c4746e",
       "stats-files-color": "#b98d7b",
